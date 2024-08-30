@@ -1,4 +1,4 @@
-# p-trigonometric-functions
+# p_trigonometric_functions
 A project focused on calculating p-trigonometric functions and their inverses defined on the elliptic plane.
 
 References:
